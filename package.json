@@ -1,6 +1,6 @@
 {
   "name": "denisdb",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "DenisDB Connection Driver",
   "main": "index.js",
   "type": "module",
