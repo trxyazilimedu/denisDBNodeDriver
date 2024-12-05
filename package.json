@@ -1,0 +1,12 @@
+{
+  "name": "denisdb",
+  "version": "1.0.7",
+  "description": "DenisDB Connection Driver",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "trxyazilimedu",
+  "license": "ISC"
+}
