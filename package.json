@@ -4,6 +4,10 @@
   "description": "DenisDB Connection Driver",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trxyazilimedu/denisDBNodeDriver.git"
+  },
   "scripts": {
     "start": "node index.js"
   },
